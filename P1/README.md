@@ -1,0 +1,1 @@
+In this project, we will implement the graph search and make Best First Search operate like different search algorithms
